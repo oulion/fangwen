@@ -1,0 +1,7 @@
+/.metadata
+/cxf-webservice/WebRoot/WEB-INF/classes
+/cxf-webservice/.settings
+/cxf-webservice/.classpath
+/cxf-webservice/.metadata
+/cxf-webservice/.project
+*.prefs
